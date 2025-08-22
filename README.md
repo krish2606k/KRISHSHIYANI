@@ -10,6 +10,8 @@ ASP.NET for webform
 Working Project:
 
 Employra.com
+
+Small Description of the Project:
  In our project, there are three main departments: Admin, Student, and 
 Company. Each department has specific roles:
 The Company section displays the number of job vacancies, along with the 
